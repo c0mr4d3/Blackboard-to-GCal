@@ -1,0 +1,5 @@
+google_auth_oauthlib==0.4.1
+icalendar==4.0.4
+google_api_python_client==1.7.11
+protobuf==3.11.0
+selenium==3.141.0
