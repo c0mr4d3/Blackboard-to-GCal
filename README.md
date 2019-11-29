@@ -31,5 +31,7 @@ https://developers.google.com/calendar/quickstart/python
 # To-do
 1. Add the blackboard links to Google Calendar Event description
 2. Improve the wait times using Selenium functions instead of `time.wait`
+3. Add the option to add reminders(notifications and emails) on events
+4. Cleanup and interface for above
 
 Any pull requests are welcome. 
